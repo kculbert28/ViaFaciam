@@ -129,7 +129,7 @@ img { max-width: 100%; display: block; }
       rgba(93, 47, 145, .52) 55%,
       rgba(238, 228, 247, .06) 100%
     ),
-    url('harvard_drone_1.png') center/cover no-repeat;
+    url('harvard_backdrop_1_flipped.png') center/cover no-repeat;
 }
 
 .home-hero::after {
@@ -377,7 +377,7 @@ img { max-width: 100%; display: block; }
   padding: 150px 46px 86px;
   background:
     linear-gradient(90deg, rgba(53,18,107,.92), rgba(93,47,145,.72)),
-    url('harvard_drone_1.png') center/cover no-repeat;
+    url('harvard_backdrop_1_flipped.png') center/cover no-repeat;
 }
 
 .page-hero .hero-inner { max-width: 980px; }
